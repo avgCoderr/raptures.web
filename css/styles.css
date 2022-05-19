@@ -11767,7 +11767,7 @@ p {
 @media (min-width: 992px) {
   #mainNav {
     border: none;
-    background-color: #21252975;
+    background-color: #ffffff;
     transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
   }
   #mainNav .navbar-brand {
